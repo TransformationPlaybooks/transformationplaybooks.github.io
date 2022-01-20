@@ -2,9 +2,19 @@
 
 This site is
 * published using [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/) 
-* to https://transformationplaybooks.github.io/ (GitHub Pages)
+
+Consists of 2 parts
+1. landing page, this repository published as github pages
+* content: https://github.com/TransformationPlaybooks/transformationplaybooks.github.io/docs
+* mkdocs config file: mkdocs.yml
+* to: https://transformationplaybooks.org/
 * via a [workflow in GitHub Actions](/.github/workflows/ci.yml)
 
-All content and edits to the [docs](/docs) directory
+2. playbook content
+* content: https://github.com/TransformationPlaybooks/playbooks/docs
+* mkdocs config file: mkdocs.yml
+* to: https://transformationplaybooks.org/playbooks
+* via a [workflow in GitHub Actions](/.github/workflows/ci.yml)
 
-The default github pages templates, content & workflow are not used. 
+Notes
+* not using the default github pages Jerkyll themes etc. 

@@ -1,0 +1,1 @@
+the main content is in the https://github.com/TransformationPlaybooks/playbooks/ repo
