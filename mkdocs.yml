@@ -2,4 +2,4 @@ site_name: Open Transformation Playbooks
 theme:
   name: material
 
-docs_dir: 'docs'
+docs_dir: 'www'
