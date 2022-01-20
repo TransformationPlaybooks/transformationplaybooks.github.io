@@ -1,3 +1,5 @@
 site_name: Open Transformation Playbooks
 theme:
   name: material
+
+docs_dir: 'wwwroot'
